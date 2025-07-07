@@ -23,7 +23,7 @@
 ### Project Structure
 
 ```
-Gliacloud_FE_Homework/
+GliaCloud_Frontend_Homework/
 ├── public/
 │   ├── _headers                # Netlify deployment configuration
 │   ├── index.html              # HTML entry point
